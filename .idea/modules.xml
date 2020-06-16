@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../2019-08-16_SOM/.idea/2019-08-16_SOM.iml" filepath="$PROJECT_DIR$/../2019-08-16_SOM/.idea/2019-08-16_SOM.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../alt-Anfang/.idea/2019-09-10_SOM.iml" filepath="$PROJECT_DIR$/../alt-Anfang/.idea/2019-09-10_SOM.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/ProcessModelDiscovery.iml" filepath="$PROJECT_DIR$/.idea/ProcessModelDiscovery.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../TestProject/.idea/TestProject.iml" filepath="$PROJECT_DIR$/../TestProject/.idea/TestProject.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../stopWatch/.idea/stopWatch.iml" filepath="$PROJECT_DIR$/../stopWatch/.idea/stopWatch.iml" />
+    </modules>
+  </component>
+</project>
